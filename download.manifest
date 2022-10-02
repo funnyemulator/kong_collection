@@ -1,0 +1,12 @@
+{
+	"packageUrl" : "https://raw.githubusercontent.com/funnyemulator/kong_collection/main/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/funnyemulator/kong_collection/main/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/kong_collection/main/version.manifest",
+	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/kong_collection/main/download.manifest",
+	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/kong_collection/main/",
+	"version" : "1",
+	"engineVersion" : "1.0.0",
+	"assets" : {},
+	"group" : {},
+    "searchPaths" : []
+}
